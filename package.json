@@ -1,0 +1,34 @@
+{
+  "name": "partner",
+  "version": "0.6.0",
+  "description": "Child process management. Support to create, manage, interact between child process.",
+  "email": "tangkhaiphuong@gmail.com",
+  "author": {
+    "name": "Tang Khai Phuong"
+  },
+  "main": "./lib/partner",
+  "scripts": {
+    "test": "node_modules/.bin/intern-client config=test/intern-config"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tangkhaiphuong/partner.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tangkhaiphuong/partner/issues"
+  },
+  "keywords": [
+    "process",
+    "parallel",
+    "distribution"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "tangkhaiphuong",
+      "email": "tangkhaiphuong@gmail.com"
+    }
+  ],
+  "homepage": "https://github.com/tangkhaiphuong/partner",
+  "readme": "ERROR: No README data found!"
+}
